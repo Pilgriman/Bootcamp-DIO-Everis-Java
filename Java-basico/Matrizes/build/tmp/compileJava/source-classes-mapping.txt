@@ -1,0 +1,6 @@
+br/com/matriz/parte04/ArraysIrregulares.java
+ br.com.matriz.parte04.ArraysIrregulares
+br/com/pilgriman/Matrizes.java
+ br.com.pilgriman.Matrizes
+br/com/pilgraman/matriz/parte03/Aula03Matriz.java
+ br.com.pilgraman.matriz.parte03.Aula03Matriz
