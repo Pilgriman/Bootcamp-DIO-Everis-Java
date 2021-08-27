@@ -1,0 +1,10 @@
+br/com/pilgriman/part1_part2/ConnectionJDBC.java
+ br.com.pilgriman.part1_part2.ConnectionJDBC
+br/com/pilgriman_consulta_dados/QueriesExecution.java
+ br.com.pilgriman_consulta_dados.QueriesExecution
+br/com/pilgriman_consulta_dados/Aluno.java
+ br.com.pilgriman_consulta_dados.Aluno
+br/com/pilgriman_consulta_dados/ConnectionFactory.java
+ br.com.pilgriman_consulta_dados.ConnectionFactory
+br/com/pilgriman_consulta_dados/AlunoDAO.java
+ br.com.pilgriman_consulta_dados.AlunoDAO
